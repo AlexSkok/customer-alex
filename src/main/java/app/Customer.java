@@ -9,9 +9,9 @@ public class Customer {
         this.phone = phone;
     }
     public String getName(){
-         return name;
+         return this.name;
     }
     public String getPhone(){
-        return phone;
+        return this.phone;
     }
 }
